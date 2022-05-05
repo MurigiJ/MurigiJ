@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julius Murigi
 - 👀 I’m interested in Software development and Blockchain
-- 🌱 I’m currently learning ita ll from the basics!
+- 🌱 I’m currently learning it all from the basics!
 - 💞️ I’m looking to collaborate on any project.
 
 <!---
